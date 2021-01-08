@@ -1,0 +1,123 @@
+D:\workspace\交易接口\总线\FutureServerState\obj\Debug\FutureServerState.csprojAssemblyReference.cache
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\FutureServerState.exe.config
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\FutureServerState.exe
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\FutureServerState.pdb
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\CTPsysinfo.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\ext_t2sdkEx.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\RabbitMQ.Client.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\SqlSugar.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Buffers.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.IO.Pipelines.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Memory.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Numerics.Vectors.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Threading.Channels.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\CTPsysinfo.pdb
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\CTPsysinfo.dll.config
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\Pipelines.Sockets.Unofficial.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\RabbitMQ.Client.pdb
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\RabbitMQ.Client.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Buffers.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.IO.Pipelines.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Memory.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Numerics.Vectors.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Threading.Channels.xml
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\workspace\交易接口\总线\FutureServerState\obj\Debug\FutureServerState.csproj.CopyComplete
+D:\workspace\交易接口\总线\FutureServerState\obj\Debug\FutureServerState.exe
+D:\workspace\交易接口\总线\FutureServerState\obj\Debug\FutureServerState.pdb
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\StackExchange.Redis.dll
+D:\workspace\交易接口\总线\FutureServerState\bin\Debug\StackExchange.Redis.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\FutureServerState.exe.config
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\FutureServerState.exe
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\FutureServerState.pdb
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\CTPsysinfo.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\ext_t2sdkEx.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\RabbitMQ.Client.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\SqlSugar.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\StackExchange.Redis.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Buffers.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.IO.Pipelines.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Memory.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Numerics.Vectors.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Threading.Channels.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\CTPsysinfo.pdb
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\CTPsysinfo.dll.config
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Pipelines.Sockets.Unofficial.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\RabbitMQ.Client.pdb
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\RabbitMQ.Client.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\StackExchange.Redis.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Buffers.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.IO.Pipelines.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Memory.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Numerics.Vectors.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Threading.Channels.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\obj\Debug\FutureServerState.csprojAssemblyReference.cache
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\obj\Debug\FutureServerState.csproj.CopyComplete
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\obj\Debug\FutureServerState.exe
+D:\workspace\交易接口\OneDrive - Lolihub\总线\FutureServerState\obj\Debug\FutureServerState.pdb
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\FutureServerState.exe.config
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\FutureServerState.exe
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\FutureServerState.pdb
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\CTPsysinfo.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\ext_t2sdkEx.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\RabbitMQ.Client.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\SqlSugar.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\StackExchange.Redis.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Buffers.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.IO.Pipelines.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Memory.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Numerics.Vectors.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Threading.Channels.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\CTPsysinfo.pdb
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\CTPsysinfo.dll.config
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\Pipelines.Sockets.Unofficial.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\RabbitMQ.Client.pdb
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\RabbitMQ.Client.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\StackExchange.Redis.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Buffers.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.IO.Pipelines.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Memory.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Numerics.Vectors.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Threading.Channels.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\obj\Debug\FutureServerState.csprojAssemblyReference.cache
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\obj\Debug\FutureServerState.csproj.CopyComplete
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\obj\Debug\FutureServerState.exe
+D:\workspace\OneDrive - Lolihub\总线\FutureServerState\obj\Debug\FutureServerState.pdb
