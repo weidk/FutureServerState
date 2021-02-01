@@ -133,10 +133,10 @@ namespace FutureServerState
                             //{
                                 FuturepositionQry_Input objFuturepositionQry_Input = new FuturepositionQry_Input();
                                 objFuturepositionQry_Input.in_user_token = Funs.CONFIG.token;
-                                objFuturepositionQry_Input.in_market_no = "7";
-                                objFuturepositionQry_Input.in_asset_no = kv.Value.asset_no;
+                                //objFuturepositionQry_Input.in_market_no = "7";
+                                //objFuturepositionQry_Input.in_asset_no = kv.Value.asset_no;
                                 objFuturepositionQry_Input.in_combi_no = kv.Value.combi_no;
-                                objFuturepositionQry_Input.in_account_code = kv.Value.account_code;
+                                //objFuturepositionQry_Input.in_account_code = kv.Value.account_code;
 
                                 var pos = Init.hsPack2.Fun31003_FuturepositionQry(objFuturepositionQry_Input);
                                 if (pos.Count > 0)
